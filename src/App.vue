@@ -1,7 +1,8 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/basic">Basic_form</router-link>
+    <router-link to="/dynamicForm">DynamicForm</router-link>
   </div>
   <router-view />
 </template>
@@ -19,6 +20,7 @@
   padding: 30px;
 
   a {
+    margin-right: 30px;
     font-weight: bold;
     color: #2c3e50;
 
