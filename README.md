@@ -1,24 +1,13 @@
 # veevalidate
 
-## Project setup
-```
-npm install
-```
+版本v4
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+官方文件練習
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [x] Validation Basics
+- [x] Build a Form Generator
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [ ] Validation
+- [ ] Handling Forms
+- [ ] Nested Objects and Arrays
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
